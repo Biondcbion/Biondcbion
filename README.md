@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact **Knowledgeable about investing**
 
-- I am learning how to **Use AWS Cloud**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
