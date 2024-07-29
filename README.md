@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristian Biondi</h1>
 <h3 align="center">A passionate frontend developer from Miami</h3>
 
-- 🌱 I’m currently learning **Machine Learning and AI**
+- 🌱 I’m constantly learning **Machine Learning and AI**
 
 - 📫 How to reach me **Biondicrit@gmail.com**
 
